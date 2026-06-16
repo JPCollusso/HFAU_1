@@ -1,6 +1,6 @@
 # HFAU — Human Flow Analyzer Unit
 
-Um sistema embarcado de baixo custo capaz de classificar o fluxo de pessoas em um ambiente como baixo, médio ou alto. Tudo em tempo real.
+Um sistema embarcado de baixo custo capaz de classificar o fluxo de pessoas em um ambiente como baixo, médio ou alto, tudo em tempo real.
 
 ## Como funciona
 
